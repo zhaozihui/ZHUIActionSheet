@@ -17,7 +17,7 @@
 
 画面效果:
 
-<img src="https://raw.githubusercontent.com/zhaozihui/ZHPickView/master/IMG_1205.PNG" width="320" height="568" alt="画面效果"/>
+<img src="https://raw.githubusercontent.com/zhaozihui/ZHUIActionSheet/master/IMG_1207.PNG" width="320" height="568" alt="画面效果"/>
 
 
 
